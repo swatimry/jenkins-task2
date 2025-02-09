@@ -1,4 +1,4 @@
-print("This message is from python github repo")
+print("This message is from python github repo to jenkins")
 def isfloat(num):
     try:
         float(num)
